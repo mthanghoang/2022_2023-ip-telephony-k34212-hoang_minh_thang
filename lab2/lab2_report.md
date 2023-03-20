@@ -5,8 +5,8 @@ Year: 2022/2023
 Group: K34212  
 Author: Hoang Minh Thang  
 Lab: Lab2  
-Date created: 21.09.2022  
-Date finished: 04.10.2022
+Date created: 19.03.2023  
+Date finished: 20.03.2023
 # 
 
 ## ЦЕЛЬ РАБОТЫ:
